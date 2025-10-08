@@ -14,7 +14,7 @@ git clone https://github.com/<your_repo_name>.git
 cd "<your_repo_name>/01 Classification -- ResNet-50"
 
 
-## 🧩 Data Preprocessing
+## 🧩 Data Processing
 
 When you run the notebook, the dataset is automatically preprocessed and split into:
 
@@ -32,3 +32,19 @@ The preprocessing pipeline performs:
 2. Randomized data splitting using a fixed seed for reproducibility.
 3. Image resizing, conversion to RGB, and sequential renaming.
 4. Summary statistics showing counts for each class and split.
+
+
+---
+
+## 🧪 Automated Testing on Multiple Datasets
+
+After training, you can automatically evaluate the saved model on the **test subset** of any dataset listed in the repository.  
+Simply toggle which datasets to include by setting `True` or `False` in the configuration dictionary, for example:
+
+```python
+test_datasets = {
+    "WildFireCan": True,
+    "Fire360": True,
+    "DeepFire": False,
+    "FLAME3": True
+}
