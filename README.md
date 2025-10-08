@@ -42,7 +42,7 @@ Each entry links to the dataset homepage or download source and specifies modali
 | 7 | **FLAME2** | 2022 | Aerial | Multispectral / Thermal | Cls | [Download](https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset) |
 | 8 | **FLAME1** | 2020 | Aerial | Multispectral / Thermal | Cls / Seg | [Download](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) |
 | 9 | **DFS** | 2023 | Aggregated | RGB | Cls / Det | [Download](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset?tab=readme-ov-file) |
-| 10 | **BA-UAV** | 2023 | Aerial | UAV Imagery | Seg | [Download](https://github.com/ipleiria-ciic/ees-datalab) |
+| 10 | **BA-UAV** | 2023 | Aerial | RGB | Seg | [Download](https://github.com/ipleiria-ciic/ees-datalab) |
 | 11 | **FireDetn** | 2023 | Image | RGB | Det | [Download](https://github.com/SuperXxts/FireDetn) |
 | 12 | **FireFly** | 2023 | Synthetic | RGB | Det | [Download](https://github.com/ERGOWHO/Firefly2.0) |
 | 13 | **DeepFire** | 2022 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/alik05/forest-fire-dataset) |
