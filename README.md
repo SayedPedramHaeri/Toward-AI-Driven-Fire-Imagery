@@ -6,11 +6,7 @@ A comprehensive repository accompanying the paper **_Toward AI-Driven Fire Image
 
 ## 🔍 Overview  
 
-Despite major advances in technology-driven fire-management systems, global wildfire frequency and severity continue to rise—exacerbated by climate change and limited resource allocation.  
-This work addresses the need for intelligent, data-driven fire-monitoring frameworks powered by AI and **Unmanned Aerial Systems (UAS)**.  
-
-We review, organize, and compare all significant wildfire datasets released over the last 20 years (**RGB, thermal, IR, acoustic, chemical, multimodal**), analyzing their structure, annotation, and usability for modern AI tasks.  
-The study also explores how emerging **LLMs and VLMs** can accelerate the **creation, augmentation, and application** of fire datasets for early detection, spread prediction, and post-incident assessment.
+Despite major advances in technology-driven fire-management systems, global wildfire frequency and severity continue to rise—exacerbated by climate change and limited resource allocation. This work addresses the need for intelligent, data-driven fire-monitoring frameworks powered by AI and **Unmanned Aerial Vehicles (UAV)**. We review, organize, and compare all significant wildfire datasets released over the last 20 years (**RGB, thermal, IR, acoustic, chemical, multimodal**), analyzing their structure, annotation, and usability for modern AI tasks. The study also explores how emerging **LLMs and VLMs** can accelerate the **creation, augmentation, and application** of fire datasets for early detection, spread prediction, and post-incident assessment.
 
 ---
 
