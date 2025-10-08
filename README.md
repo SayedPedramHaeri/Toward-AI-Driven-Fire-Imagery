@@ -76,7 +76,7 @@ The following table provides a unified index of publicly available wildfire, smo
 
 ---
 
-## 🧪 Experiments  
+## 📊 Experiments  
 
 ### Vision Benchmarks  
 - Implementations of **ResNet-50**, **DeepLab-V3**, and **YOLOv8** in PyTorch.  
@@ -91,14 +91,6 @@ The following table provides a unified index of publicly available wildfire, smo
 - Cross-dataset generalization indices  
 
 Each experiment includes a Jupyter notebook detailing dataset loading, training, and evaluation workflows.
-
----
-
-## 📊 Visualizations  
-
-- Dataset distribution plots (fire vs. non-fire ratios, modality coverage, geographic balance)  
-- Model performance curves and confusion matrices  
-- Qualitative segmentation and detection samples  
 
 ---
  
