@@ -36,45 +36,40 @@ Each entry links to the dataset homepage or download source and specifies modali
 | 1 | **WildFireCan** | 2025 | Multimodal | Image + Text | Cls / Det | [Download](https://github.com/Multimodal-Social-Media-Data-Analysis/WildfireCanMMD-Multimedia-Classification-on-user-generated-content-During-Wildfires-in-Canada) |
 | 2 | **Fire360** | 2025 | Multimodal | RGB + Thermal + Text | Cls / Det | [Download](https://uofi.app.box.com/v/fire360dataset) |
 | 3 | **DisasterM3** | 2025 | Multimodal | Satellite + Text (SAR) | Cls / Seg / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
-| 4 | **FightwithFire** | 2023 | Multimodal | Image + Audio | Cls / Det | N/A |
-| 5 | **MultimodalGas** | 2022 | Sensor | Image + Gas | Cls / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
+| 4 | **MultimodalGas** | 2022 | Sensor | Image + Gas | Cls / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
+| 5 | **FLAME-SD** | 2024 | Synthetic | RGB | Cls / Det | [Download](https://github.com/AIS-Clemson/FLAME_SD) |
 | 6 | **FLAME3** | 2024 | Aerial | Multispectral / Thermal | Cls / Det | [Download](https://www.kaggle.com/datasets/brycehopkins/flame-3-computer-vision-subset-sycan-marsh) |
-| 7 | **FLAME-SD** | 2024 | Synthetic | RGB | Cls / Det | [Download](https://github.com/AIS-Clemson/FLAME_SD) |
-| 8 | **DFS** | 2023 | Aggregated | RGB | Cls / Det | [Download](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset?tab=readme-ov-file) |
-| 9 | **BA-UAV** | 2023 | Aerial | UAV Imagery | Seg | [Download](https://github.com/ipleiria-ciic/ees-datalab) |
-| 10 | **FireDetn** | 2023 | Image | RGB | Det | [Download](https://github.com/SuperXxts/FireDetn) |
-| 11 | **FireFly** | 2023 | Synthetic | RGB | Det | [Download](https://github.com/ERGOWHO/Firefly2.0) |
-| 12 | **FLAME2** | 2022 | Aerial | Multispectral / Thermal | Cls | [Download](https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset) |
-| 13 | **FireFront** | 2022 | Simulation | RGB | Cls | N/A |
-| 14 | **DeepFire** | 2022 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/alik05/forest-fire-dataset) |
-| 15 | **Paddle Fire** | 2021 | Image | RGB | Cls | [Download](https://aistudio.baidu.com/datasetdetail/107770) |
-| 16 | **DataCluster** | 2021 | Image | RGB | Cls / Det | [Download](https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset) |
-| 17 | **WildfireDet** | 2021 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data) |
-| 18 | **FD-Dataset** | 2020 | Image | RGB | Det | N/A |
-| 19 | **D-Fire** | 2020 | Mixed | RGB | Cls / Det | [Download](https://github.com/gaiasd/DFireDataset) |
-| 20 | **FLAME1** | 2020 | Aerial | Multispectral / Thermal | Cls / Seg | [Download](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) |
-| 21 | **FF-Det** | 2020 | Image | RGB | Cls | [Download](https://data.mendeley.com/datasets/gjmr63rz2r/1) |
-| 22 | **FireNet** | 2019 | Image | RGB | Det | [Download](https://github.com/OlafenwaMoses/FireNet) |
-| 23 | **AIDER** | 2019 | Aerial | RGB | Cls | [Download](https://github.com/ckyrkou/AIDER) |
-| 24 | **ForestryImage** | 2018 | Image | RGB | Cls | [Download](https://www.forestryimages.org/browse/subthumb.cfm?sub=740) |
-| 25 | **FIRE** | 2018 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/phylake1337/fire-dataset) |
-| 26 | **CAIR** | 2017 | Image | RGB | Cls | [Download](https://github.com/cair/Fire-Detection-Image-Dataset) |
-| 27 | **FESB MLID** | 2017 | Image | RGB | Cls / Seg | [Download](http://wildfire.fesb.hr/) |
-| 28 | **FiSmo** | 2017 | Video | RGB | Cls | [Download](https://github.com/mtcazzolato/dsw2017) |
-| 29 | **Corsican** | 2017 | Image | RGB | Seg | [Download](https://cfdb.univ-corse.fr/index.php) |
-| 30 | **FireSense** | 2017 | Video | RGB | Cls | [Download](https://zenodo.org/records/836749) |
-| 31 | **BoWFire** | 2015 | Image | RGB | Cls / Seg | [Download](https://bitbucket.org/gbdi/bowfire-dataset/downloads/) |
-| 32 | **MIVIA** | 2014 | Video | RGB | Cls | [Download](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/) |
-| 33 | **VisiFire** | 2010 | Video | RGB | Cls | [Download](http://signal.ee.bilkent.edu.tr/VisiFire/) |
-| 34 | **FireClips** | 2006 | Video | RGB | Cls | [Download](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips/) |
-| 35 | **ForestFireSound** | 2024 | Acoustic | Audio | Cls | N/A |
-| 36 | **ForestSound** | 2023 | Acoustic | Audio | Cls / Det | N/A |
-| 37 | **FSC22** | 2023 | Acoustic | Audio | Cls | [Download](https://ieee-dataport.org/documents/fsc22-dataset) |
-| 38 | **FireSound** | 2021 | Acoustic | Audio | Cls / Det | [Download](https://www.kaggle.com/datasets/forestprotection/forest-wild-fire-sound-dataset) |
-| 39 | **IberFire** | 2025 | Meteorological | Spatio-Temporal | Cls | [Download](https://zenodo.org/records/1522588) |
-| 40 | **Algerian** | 2019 | Meteorological | Spatio-Temporal | Cls | [Download](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset) |
-| 41 | **SmokeDet** | 2022 | Chemical | Gas Sensors | Cls | [Download](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset) |
-| 42 | **EarlyFire** | 2022 | Chemical | Gas Sensors | Cls / Det | [Download](https://data.mendeley.com/datasets/f3mjnbm9b3/1) |
+| 7 | **FLAME2** | 2022 | Aerial | Multispectral / Thermal | Cls | [Download](https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset) |
+| 8 | **FLAME1** | 2020 | Aerial | Multispectral / Thermal | Cls / Seg | [Download](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) |
+| 9 | **DFS** | 2023 | Aggregated | RGB | Cls / Det | [Download](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset?tab=readme-ov-file) |
+| 10 | **BA-UAV** | 2023 | Aerial | UAV Imagery | Seg | [Download](https://github.com/ipleiria-ciic/ees-datalab) |
+| 11 | **FireDetn** | 2023 | Image | RGB | Det | [Download](https://github.com/SuperXxts/FireDetn) |
+| 12 | **FireFly** | 2023 | Synthetic | RGB | Det | [Download](https://github.com/ERGOWHO/Firefly2.0) |
+| 13 | **DeepFire** | 2022 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/alik05/forest-fire-dataset) |
+| 14 | **Paddle Fire** | 2021 | Image | RGB | Cls | [Download](https://aistudio.baidu.com/datasetdetail/107770) |
+| 15 | **DataCluster** | 2021 | Image | RGB | Cls / Det | [Download](https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset) |
+| 16 | **WildfireDet** | 2021 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data) |
+| 17 | **D-Fire** | 2020 | Mixed | RGB | Cls / Det | [Download](https://github.com/gaiasd/DFireDataset) |
+| 18 | **FF-Det** | 2020 | Image | RGB | Cls | [Download](https://data.mendeley.com/datasets/gjmr63rz2r/1) |
+| 19 | **FireNet** | 2019 | Image | RGB | Det | [Download](https://github.com/OlafenwaMoses/FireNet) |
+| 20 | **AIDER** | 2019 | Aerial | RGB | Cls | [Download](https://github.com/ckyrkou/AIDER) |
+| 21 | **ForestryImage** | 2018 | Image | RGB | Cls | [Download](https://www.forestryimages.org/browse/subthumb.cfm?sub=740) |
+| 22 | **FIRE** | 2018 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/phylake1337/fire-dataset) |
+| 23 | **CAIR** | 2017 | Image | RGB | Cls | [Download](https://github.com/cair/Fire-Detection-Image-Dataset) |
+| 24 | **FESB MLID** | 2017 | Image | RGB | Cls / Seg | [Download](http://wildfire.fesb.hr/) |
+| 25 | **FiSmo** | 2017 | Video | RGB | Cls | [Download](https://github.com/mtcazzolato/dsw2017) |
+| 26 | **Corsican** | 2017 | Image | RGB | Seg | [Download](https://cfdb.univ-corse.fr/index.php) |
+| 27 | **FireSense** | 2017 | Video | RGB | Cls | [Download](https://zenodo.org/records/836749) |
+| 28 | **BoWFire** | 2015 | Image | RGB | Cls / Seg | [Download](https://bitbucket.org/gbdi/bowfire-dataset/downloads/) |
+| 29 | **MIVIA** | 2014 | Video | RGB | Cls | [Download](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/) |
+| 30 | **VisiFire** | 2010 | Video | RGB | Cls | [Download](http://signal.ee.bilkent.edu.tr/VisiFire/) |
+| 31 | **FireClips** | 2006 | Video | RGB | Cls | [Download](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips/) |
+| 32 | **FSC22** | 2023 | Acoustic | Audio | Cls | [Download](https://ieee-dataport.org/documents/fsc22-dataset) |
+| 33 | **FireSound** | 2021 | Acoustic | Audio | Cls / Det | [Download](https://www.kaggle.com/datasets/forestprotection/forest-wild-fire-sound-dataset) |
+| 34 | **IberFire** | 2025 | Meteorological | Spatio-Temporal | Cls | [Download](https://zenodo.org/records/1522588) |
+| 35 | **Algerian** | 2019 | Meteorological | Spatio-Temporal | Cls | [Download](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset) |
+| 36 | **SmokeDet** | 2022 | Chemical | Gas Sensors | Cls | [Download](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset) |
+| 37 | **EarlyFire** | 2022 | Chemical | Gas Sensors | Cls / Det | [Download](https://data.mendeley.com/datasets/f3mjnbm9b3/1) |
 
 ---
 
