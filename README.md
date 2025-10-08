@@ -29,19 +29,62 @@ Despite substantial advancements in technology-driven fire management systems, t
 Instead of algorithm classes, this repository organizes resources **by dataset category**, mirroring *Table 8* of the paper.  
 Each entry links to the dataset homepage or download source and specifies modality, task type, and license status.  
 
+### 🔥 Complete Wildfire, Smoke, and Multimodal Dataset Index
+
 | No | Dataset Name | Year | Type | Modality | Tasks | Download Link |
 |:--:|:--------------|:----:|:----:|:----------|:------|:--------------|
 | 1 | **WildFireCan** | 2025 | Multimodal | Image + Text | Cls / Det | [Download](https://github.com/Multimodal-Social-Media-Data-Analysis/WildfireCanMMD-Multimedia-Classification-on-user-generated-content-During-Wildfires-in-Canada) |
-| 2 | **Fire360** | 2025 | Video + Text | VQA + Reasoning | Cls / Seg / Det | [Download](https://uofi.app.box.com/v/fire360dataset) |
-| 3 | **DisasterM3** | 2025 | Satellite + Text | SAR + Captions | Cls / Seg / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
-| 4 | **FLAME Series (1–3)** | 2020–2024 | Aerial | Multispectral / Thermal | Cls / Det | Available upon request |
-| 5 | **DeepFire** | 2022 | Image | RGB | Cls | [Download](https://data.mendeley.com/datasets/6x4cgwhd7z/1) |
-| 6 | **FireDetn** | 2023 | Image | RGB | Det | N/A |
-| 7 | **BA-UAV** | 2023 | Video | Aerial | Seg | N/A |
-| 8 | **FightwithFire** | 2023 | Image + Audio | Multimodal | Cls / Det | N/A |
-| 9 | **MultimodalGas** | 2022 | Image + Gas | Sensor Fusion | Cls | N/A |
-| 10 | **SmokeDet / EarlyFire** | 2022 | Chemical | Gas Sensors | Cls / Det | N/A |
-| ... | *Full dataset list continues in paper Table 8* |  |  |  |  |  |
+| 2 | **Fire360** | 2025 | Multimodal | RGB + Thermal + Text | Cls / Det | [Download](https://uofi.app.box.com/v/fire360dataset) |
+| 3 | **DisasterM3** | 2025 | Multimodal | Satellite + Text (SAR) | Cls / Seg / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
+| 4 | **FightwithFire** | 2023 | Multimodal | Image + Audio | Cls / Det | N/A |
+| 5 | **MultimodalGas** | 2022 | Sensor | Image + Gas | Cls / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
+| 6 | **FLAME3** | 2024 | Aerial | Multispectral / Thermal | Cls / Det | [Download](https://www.kaggle.com/datasets/brycehopkins/flame-3-computer-vision-subset-sycan-marsh) |
+| 7 | **FLAME-SD** | 2024 | Synthetic | RGB | Cls / Det | [Download](https://github.com/AIS-Clemson/FLAME_SD) |
+| 8 | **DFS** | 2023 | Aggregated | RGB | Cls / Det | [Download](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset?tab=readme-ov-file) |
+| 9 | **BA-UAV** | 2023 | Aerial | UAV Imagery | Seg | [Download](https://github.com/ipleiria-ciic/ees-datalab) |
+| 10 | **FireDetn** | 2023 | Image | RGB | Det | [Download](https://github.com/SuperXxts/FireDetn) |
+| 11 | **FireFly** | 2023 | Synthetic | RGB | Det | [Download](https://github.com/ERGOWHO/Firefly2.0) |
+| 12 | **FLAME2** | 2022 | Aerial | Multispectral / Thermal | Cls | [Download](https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset) |
+| 13 | **FireFront** | 2022 | Simulation | RGB | Cls | N/A |
+| 14 | **DeepFire** | 2022 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/alik05/forest-fire-dataset) |
+| 15 | **Paddle Fire** | 2021 | Image | RGB | Cls | [Download](https://aistudio.baidu.com/datasetdetail/107770) |
+| 16 | **DataCluster** | 2021 | Image | RGB | Cls / Det | [Download](https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset) |
+| 17 | **WildfireDet** | 2021 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data) |
+| 18 | **FD-Dataset** | 2020 | Image | RGB | Det | N/A |
+| 19 | **D-Fire** | 2020 | Mixed | RGB | Cls / Det | [Download](https://github.com/gaiasd/DFireDataset) |
+| 20 | **FLAME1** | 2020 | Aerial | Multispectral / Thermal | Cls / Seg | [Download](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) |
+| 21 | **FF-Det** | 2020 | Image | RGB | Cls | [Download](https://data.mendeley.com/datasets/gjmr63rz2r/1) |
+| 22 | **FireNet** | 2019 | Image | RGB | Det | [Download](https://github.com/OlafenwaMoses/FireNet) |
+| 23 | **AIDER** | 2019 | Aerial | RGB | Cls | [Download](https://github.com/ckyrkou/AIDER) |
+| 24 | **ForestryImage** | 2018 | Image | RGB | Cls | [Download](https://www.forestryimages.org/browse/subthumb.cfm?sub=740) |
+| 25 | **FIRE** | 2018 | Image | RGB | Cls | [Download](https://www.kaggle.com/datasets/phylake1337/fire-dataset) |
+| 26 | **CAIR** | 2017 | Image | RGB | Cls | [Download](https://github.com/cair/Fire-Detection-Image-Dataset) |
+| 27 | **FESB MLID** | 2017 | Image | RGB | Cls / Seg | [Download](http://wildfire.fesb.hr/) |
+| 28 | **FiSmo** | 2017 | Video | RGB | Cls | [Download](https://github.com/mtcazzolato/dsw2017) |
+| 29 | **Corsican** | 2017 | Image | RGB | Seg | [Download](https://cfdb.univ-corse.fr/index.php) |
+| 30 | **FireSense** | 2017 | Video | RGB | Cls | [Download](https://zenodo.org/records/836749) |
+| 31 | **BoWFire** | 2015 | Image | RGB | Cls / Seg | [Download](https://bitbucket.org/gbdi/bowfire-dataset/downloads/) |
+| 32 | **MIVIA** | 2014 | Video | RGB | Cls | [Download](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/) |
+| 33 | **VisiFire** | 2010 | Video | RGB | Cls | [Download](http://signal.ee.bilkent.edu.tr/VisiFire/) |
+| 34 | **FireClips** | 2006 | Video | RGB | Cls | [Download](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips/) |
+| 35 | **ForestFireSound** | 2024 | Acoustic | Audio | Cls | N/A |
+| 36 | **ForestSound** | 2023 | Acoustic | Audio | Cls / Det | N/A |
+| 37 | **FSC22** | 2023 | Acoustic | Audio | Cls | [Download](https://ieee-dataport.org/documents/fsc22-dataset) |
+| 38 | **FireSound** | 2021 | Acoustic | Audio | Cls / Det | [Download](https://www.kaggle.com/datasets/forestprotection/forest-wild-fire-sound-dataset) |
+| 39 | **IberFire** | 2025 | Meteorological | Spatio-Temporal | Cls | [Download](https://zenodo.org/records/1522588) |
+| 40 | **Algerian** | 2019 | Meteorological | Spatio-Temporal | Cls | [Download](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset) |
+| 41 | **SmokeDet** | 2022 | Chemical | Gas Sensors | Cls | [Download](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset) |
+| 42 | **EarlyFire** | 2022 | Chemical | Gas Sensors | Cls / Det | [Download](https://data.mendeley.com/datasets/f3mjnbm9b3/1) |
+
+---
+
+**Legend**  
+- **Cls** = Classification | **Seg** = Segmentation | **Det** = Detection  
+- **Multimodal** datasets combine two or more data types (e.g., image + audio or image + text).  
+- **Aerial / UAV** datasets are captured via drones or satellites.  
+- **Synthetic / Aggregated** datasets are artificially generated or compiled from multiple sources.  
+
+
 
 ---
 
