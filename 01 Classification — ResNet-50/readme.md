@@ -15,7 +15,10 @@ cd "<your_repo_name>/01 Classification -- ResNet-50"
 
 
 Dataset/
+
 ├── Fire/
+
 │   ├── fire/          # fire images
+
 │   ├── no_Fire/       # non-fire images
 
