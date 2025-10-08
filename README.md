@@ -37,9 +37,9 @@ The following table provides a unified index of publicly available wildfire, smo
 | 3 | **DisasterM3** | 2025 | Multimodal | Satellite + Text (SAR) | Cls / Seg / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
 | 4 | **MultimodalGas** | 2022 | Sensor | Image + Gas | Cls / Det | [Download](https://data.mendeley.com/datasets/zkwgkjkjn9/2) |
 | 5 | **FLAME-SD** | 2024 | Synthetic | RGB | Cls / Det | [Download](https://github.com/AIS-Clemson/FLAME_SD) |
-| 6 | **FLAME3** | 2024 | Aerial | Multispectral / Thermal | Cls / Det | [Download](https://www.kaggle.com/datasets/brycehopkins/flame-3-computer-vision-subset-sycan-marsh) |
-| 7 | **FLAME2** | 2022 | Aerial | Multispectral / Thermal | Cls | [Download](https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset) |
-| 8 | **FLAME1** | 2020 | Aerial | Multispectral / Thermal | Cls / Seg | [Download](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) |
+| 6 | **FLAME3** | 2024 | Aerial | Multispectral | Cls / Det | [Download](https://www.kaggle.com/datasets/brycehopkins/flame-3-computer-vision-subset-sycan-marsh) |
+| 7 | **FLAME2** | 2022 | Aerial | Multispectral | Cls | [Download](https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset) |
+| 8 | **FLAME1** | 2020 | Aerial | Multispectral | Cls / Seg | [Download](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) |
 | 9 | **DFS** | 2023 | Aggregated | RGB | Cls / Det | [Download](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset?tab=readme-ov-file) |
 | 10 | **BA-UAV** | 2023 | Aerial | RGB | Seg | [Download](https://github.com/ipleiria-ciic/ees-datalab) |
 | 11 | **FireDetn** | 2023 | Image | RGB | Det | [Download](https://github.com/SuperXxts/FireDetn) |
