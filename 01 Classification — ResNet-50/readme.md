@@ -14,14 +14,6 @@ git clone https://github.com/<your_repo_name>.git
 cd "<your_repo_name>/01 Classification -- ResNet-50"
 
 
-Dataset/
-
-├── Fire/
-
-│   ├── fire/          # fire images
-
-│   ├── no_Fire/       # non-fire images
-
 ## 🧩 Data Preprocessing
 
 When you run the notebook, the dataset is automatically preprocessed and split into:
