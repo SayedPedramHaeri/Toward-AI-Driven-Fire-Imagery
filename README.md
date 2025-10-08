@@ -79,9 +79,6 @@ Each experiment includes a Jupyter notebook detailing dataset loading, training,
 **Sayed Pedram Haeri Boroujeni**  
 PhD Student, Clemson University  
 📧 [sayedpedramhaeri@gmail.com](mailto:sayedpedramhaeri@gmail.com)  
-
-**Niloufar Mehrabi**, **Fatemeh Afghah**, **Connor McGrath**, **Danish Bhatkar**, **Mithilesh Biradar**, **Abolfazl Razi**  
-
 ---
 
 ## 📄 License  
@@ -95,8 +92,3 @@ If you use this repository, please cite:
 
 ---
 
-## ⭐ Acknowledgments  
-
-This work was supported by the **National Aeronautics and Space Administration (NASA)** under Award No. 80NSSC23K1393, and by the **National Science Foundation (NSF)** under Grant Nos. CNS-2232048, CNS-2120485, and CNS-2204445.  
-
----
