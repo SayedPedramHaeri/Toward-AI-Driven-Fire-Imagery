@@ -101,12 +101,14 @@ Each experiment includes a Jupyter notebook detailing dataset loading, training,
 - Qualitative segmentation and detection samples  
 
 ---
+ 
 
-## 🧑‍💻 Authors  
+## 🧑‍💻 Author
 
 **Sayed Pedram Haeri Boroujeni**  
 PhD Student, Clemson University  
-📧 [sayedpedramhaeri@gmail.com](mailto:sayedpedramhaeri@gmail.com)  
+Email: sayedpedramhaeri@gmail.com
+
 ---
 
 ## 📄 License  
