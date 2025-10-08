@@ -26,8 +26,7 @@ Despite substantial advancements in technology-driven fire management systems, t
 
 ## 📚 Structured by Dataset Class  
 
-Instead of algorithm classes, this repository organizes resources **by dataset category**, mirroring *Table 8* of the paper.  
-Each entry links to the dataset homepage or download source and specifies modality, task type, and license status.  
+The following table provides a unified index of publicly available wildfire, smoke, and multimodal datasets spanning visual, acoustic, chemical, and meteorological domains. These resources form the most complete reference collection for advancing AI-driven wildfire detection, prediction, and management research across diverse modalities and data sources.
 
 ### 🔥 Complete Wildfire, Smoke, and Multimodal Dataset Index
 
