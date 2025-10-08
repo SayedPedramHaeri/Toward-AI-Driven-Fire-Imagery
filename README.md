@@ -76,10 +76,6 @@ Each entry links to the dataset homepage or download source and specifies modali
 **Legend**  
 - **Cls** = Classification | **Seg** = Segmentation | **Det** = Detection  
 - **Multimodal** datasets combine two or more data types (e.g., image + audio or image + text).  
-- **Aerial / UAV** datasets are captured via drones or satellites.  
-- **Synthetic / Aggregated** datasets are artificially generated or compiled from multiple sources.  
-
-
 
 ---
 
