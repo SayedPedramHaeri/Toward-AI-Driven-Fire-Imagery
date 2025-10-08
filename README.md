@@ -70,7 +70,6 @@ The following table provides a unified index of publicly available wildfire, smo
 | 36 | **SmokeDet** | 2022 | Chemical | Gas Sensors | Cls | [Download](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset) |
 | 37 | **EarlyFire** | 2022 | Chemical | Gas Sensors | Cls / Det | [Download](https://data.mendeley.com/datasets/f3mjnbm9b3/1) |
 
-**Legend**  
 - **Cls** = Classification | **Seg** = Segmentation | **Det** = Detection  
 - **Multimodal** datasets combine two or more data types (e.g., image + audio or image + text).  
 
