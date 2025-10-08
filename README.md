@@ -14,12 +14,12 @@ Despite substantial advancements in technology-driven fire management systems, t
 
 ## 📌 What You’ll Find Here  
 
-1. 🔥 **All existing fire and smoke datasets (2005–2025)** — curated and categorized by sensor type, modality, and application.  
-2. 🧠 **Vision-based classification benchmarks** using ResNet-50 on standard RGB datasets.  
-3. 🧩 **Vision-based segmentation analysis** using DeepLab-V3 for pixel-level smoke and flame mapping.  
-4. 🎯 **Vision-based detection experiments** using YOLOv8 on aerial and ground-view datasets.  
-5. 💡 **Vision-Language classification** with CLIP for multimodal understanding and zero-shot recognition.  
-6. 🌐 **Vision-Language detection** with Grounding-DINO for open-vocabulary fire and smoke localization.  
+1. 🔥 **All existing fire and smoke datasets (2005–2025).**  
+2. 🧠 **Vision-based classification benchmarks** using ResNet-50.  
+3. 🧩 **Vision-based segmentation analysis** using DeepLab-V3.  
+4. 🎯 **Vision-based detection experiments** using YOLOv8.  
+5. 💡 **Vision-Language classification** with CLIP.  
+6. 🌐 **Vision-Language detection** with Grounding-DINO.  
 
 Each implementation includes evaluation scripts, pretrained checkpoints (when available), and cross-dataset benchmarking utilities.
 
