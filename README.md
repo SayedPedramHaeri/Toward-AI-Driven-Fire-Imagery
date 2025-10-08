@@ -21,7 +21,6 @@ Despite substantial advancements in technology-driven fire management systems, t
 5. 💡 **Vision-Language classification** with CLIP.  
 6. 🌐 **Vision-Language detection** with Grounding-DINO.  
 
-Each implementation includes evaluation scripts, pretrained checkpoints (when available), and cross-dataset benchmarking utilities.
 
 ---
 
