@@ -1,9 +1,6 @@
-**Paper:** Toward AI-Driven Fire Imagery: Attributes, Challenges, Comparisons, and the Promise of VLMs and LLMs  
+# Toward AI-Driven Fire Imagery: Attributes, Challenges, Comparisons, and the Promise of VLMs and LLMs  
 
-A comprehensive repository accompanying the paper **_Toward AI-Driven Fire Imagery: Attributes, Challenges, Comparisons, and the Promise of VLMs and LLMs_ (2025)**.  
-
-This repository provides code, datasets, and analyses supporting our large-scale review of wildfire and smoke imagery resources and their integration with modern **Vision-Language Models (VLMs)** and **Large Language Models (LLMs)**.  
-It is intended for researchers, practitioners, and students interested in **computer-vision-based wildfire management**, **dataset benchmarking**, and **multimodal perception**.
+A comprehensive repository accompanying the paper **_Toward AI-Driven Fire Imagery: Attributes, Challenges, Comparisons, and the Promise of VLMs and LLMs_ (2025)**. This repository provides code, datasets, and analyses supporting our large-scale review of wildfire and smoke imagery resources and their integration with modern **Vision-Language Models (VLMs)** and **Large Language Models (LLMs)**. It is intended for researchers, practitioners, and students interested in **computer-vision-based wildfire management**, **dataset benchmarking**, and **multimodal perception**.
 
 ---
 
