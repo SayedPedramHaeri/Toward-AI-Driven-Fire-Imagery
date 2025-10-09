@@ -12,7 +12,9 @@ Dataset/
 ├── test/
 │   ├── src/
 │   └── gt/
-└── val/ (optional)
+└── val/
+│   ├── src/
+│   └── gt/
 ```
 
 What This Does:\
