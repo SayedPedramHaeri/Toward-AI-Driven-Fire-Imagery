@@ -17,7 +17,7 @@ Dataset/
 
 
 What This Does:
-1️⃣ Verifies that the folder structure exists.
+1️⃣ Verifies that the folder structure exists.\
 2️⃣ Loads images and ground-truth masks.
 3️⃣ Resizes all files to 513×513 pixels.
 4️⃣ Renames them as 0.jpg → 0.png, 1.jpg → 1.png, etc.
