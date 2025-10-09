@@ -13,15 +13,15 @@ Dataset/
 │   ├── src/
 │   └── gt/
 └── val/
-│   ├── src/
-│   └── gt/
+    ├── src/
+    └── gt/
 ```
 
 What This Does:\
 1️⃣ Verifies that the folder structure exists.\
 2️⃣ Loads images and ground-truth masks.\
 3️⃣ Resizes all files to 513×513 pixels.\
-4️⃣ Renames them as 0.jpg → 0.png, 1.jpg → 1.png, etc.\
+4️⃣ Renames them as 1.jpg → 1.png, 2.jpg → 2.png, etc.\
 5️⃣ Saves processed outputs into the following structure:\
 
 ```plaintext
@@ -29,4 +29,6 @@ train/src_generated/
 train/gt_generated/
 test/src_generated/
 test/gt_generated/
+val/src_generated/
+val/gt_generated/
 ```
