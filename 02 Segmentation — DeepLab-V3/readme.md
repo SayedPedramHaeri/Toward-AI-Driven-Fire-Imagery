@@ -15,16 +15,16 @@ Dataset/
 └── val/ (optional)
 ```
 
-
-What This Does:
+What This Does:\
 1️⃣ Verifies that the folder structure exists.\
-2️⃣ Loads images and ground-truth masks.
-3️⃣ Resizes all files to 513×513 pixels.
-4️⃣ Renames them as 0.jpg → 0.png, 1.jpg → 1.png, etc.
-5️⃣ Saves processed outputs into the following structure:
+2️⃣ Loads images and ground-truth masks.\
+3️⃣ Resizes all files to 513×513 pixels.\
+4️⃣ Renames them as 0.jpg → 0.png, 1.jpg → 1.png, etc.\
+5️⃣ Saves processed outputs into the following structure:\
 
+```plaintext
 train/src/
 train/gt_processed/
 test/src/
 test/gt_processed/
-
+```
