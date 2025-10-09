@@ -8,7 +8,6 @@ This folder contains the implementation and benchmarking results of **ResNet-50*
    ```bash
    pip install torch torchvision torchaudio scikit-learn tqdm seaborn pillow matplotlib
 
-
 git clone https://github.com/<your_repo_name>.git
 
 cd "<your_repo_name>/01 Classification -- ResNet-50"
