@@ -10,7 +10,7 @@ This folder contains the implementation and benchmarking results of **YOLOv8** f
    
 git clone https://github.com/<your_repo_name>.git
 
-cd "<your_repo_name>/02 Segmentation -- DeepLab-V3"
+cd "<your_repo_name>/03 Detection -- YOLOv8"
 
 
 
@@ -20,36 +20,38 @@ Before running the training scripts, please organize your dataset as follows:
 ```plaintext
 Dataset/
 ├── train/
-│   ├── src/
-│   └── gt/
-├── test/
-│   ├── src/
-│   └── gt/
-└── val/
-    ├── src/
-    └── gt/
+│   ├── images/
+│   └── labels/
+├── val/
+│   ├── images/
+│   └── labels/
+└── test/
+    ├── images/
+    └── labels/
 ```
+Each .txt file inside labels/ must follow YOLO’s format:
+<class_id> <x_center> <y_center> <width> <height>
+
 
 What This Does:\
-1️⃣ Verifies that the folder structure exists.\
-2️⃣ Loads images and ground-truth masks.\
-3️⃣ Resizes all files to 513×513 pixels.\
-4️⃣ Renames them as 1.jpg → 1.png, 2.jpg → 2.png, etc.\
-5️⃣ Saves processed outputs into the following structure:\
+1️⃣ Verifies dataset folder integrity.\
+2️⃣ Converts annotations to YOLO format if necessary (bounding boxes only).\
+3️⃣ Resizes images to 640×640 (YOLOv8 default).\
+4️⃣ Optionally augments data with random flips, rotations, and brightness shifts.\
+5️⃣ Saves organized data to:\
 
 ```plaintext
-train/src_generated/
-train/gt_generated/
-test/src_generated/
-test/gt_generated/
-val/src_generated/
-val/gt_generated/
+train/images/
+train/labels/
+val/images/
+val/labels/
+test/images/
+test/labels/
 ```
 
 ## 🧪 Automated Testing on Multiple Datasets
 
-After training, you can automatically evaluate the saved model on the **test subset** of any dataset listed in the repository.  
-Simply toggle which datasets to include by setting `True` or `False` in the configuration dictionary, for example:
+After training, evaluate your model’s performance on any registered test datasets by toggling flags in the configuration dictionary:
 
 ```python
 test_datasets = {
