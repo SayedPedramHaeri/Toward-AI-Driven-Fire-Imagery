@@ -1,6 +1,19 @@
 ## 🔍 Overview
 This directory includes experiments based on **DeepLab-V3**, a state-of-the-art semantic segmentation model used for **pixel-level fire and smoke delineation**. The model leverages atrous spatial pyramid pooling (ASPP) to capture multi-scale contextual information. All implementations utilize **torchvision.models.segmentation** with pretrained COCO weights.
 
+
+## ⚙️ Setup & Requirements
+1. **Install dependencies**
+   ```bash
+   pip install torch torchvision torchaudio scikit-learn tqdm seaborn pillow matplotlib opencv-python
+
+
+git clone https://github.com/<your_repo_name>.git
+
+cd "<your_repo_name>/02 Segmentation -- DeepLab-V3"
+
+
+
 ## 🧩 Data Organization and Preprocessing
 Before running the training scripts, please organize your dataset as follows:
 
