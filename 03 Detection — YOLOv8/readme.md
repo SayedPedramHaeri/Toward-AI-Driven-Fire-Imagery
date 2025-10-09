@@ -1,4 +1,2 @@
 ## 🔍 Overview
-This section contains benchmarking of **YOLOv8**, an advanced object detection architecture optimized for **real-time wildfire and smoke detection**.  
-The model is implemented through the official **Ultralytics PyTorch** framework using pretrained COCO weights and fine-tuned on wildfire datasets.  
-Metrics such as precision, recall, and mAP are used to evaluate performance, highlighting YOLOv8’s efficiency in detecting fire regions in aerial and ground-based imagery.
+This folder contains the implementation and benchmarking results of **YOLOv8** for wildfire and smoke detection. YOLOv8 was integrated via the official **Ultralytics PyTorch** framework, which provides pretrained detectors trained on **COCO** and straightforward APIs for **fine-tuning**. The model is evaluated on multiple wildfire datasets to detect **fire** and **smoke regions** in RGB imagery. Performance metrics include **mAP@0.5**, **Precision**, **Recall**, and **F1-score**, along with **cross-dataset generalization** across unseen environments.
