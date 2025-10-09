@@ -7,7 +7,6 @@ This directory includes experiments based on **DeepLab-V3**, a state-of-the-art 
    ```bash
    pip install torch torchvision torchaudio scikit-learn tqdm seaborn pillow matplotlib opencv-python
 
-
 git clone https://github.com/<your_repo_name>.git
 
 cd "<your_repo_name>/02 Segmentation -- DeepLab-V3"
