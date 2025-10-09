@@ -32,3 +32,16 @@ test/gt_generated/
 val/src_generated/
 val/gt_generated/
 ```
+
+## 🧪 Automated Testing on Multiple Datasets
+
+After training, you can automatically evaluate the saved model on the **test subset** of any dataset listed in the repository.  
+Simply toggle which datasets to include by setting `True` or `False` in the configuration dictionary, for example:
+
+```python
+test_datasets = {
+    "WildFireCan": True,
+    "Fire360": True,
+    "DeepFire": False,
+    "FLAME3": True
+}
