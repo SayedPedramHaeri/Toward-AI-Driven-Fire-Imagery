@@ -7,10 +7,10 @@ Before running the training scripts, please organize your dataset as follows:
 ```plaintext
 Dataset/
 ├── train/
-│   ├── images/
+│   ├── src/
 │   └── gt/
 ├── test/
-│   ├── images/
+│   ├── src/
 │   └── gt/
 └── val/ (optional)
 ```
@@ -23,8 +23,8 @@ What This Does:\
 5️⃣ Saves processed outputs into the following structure:\
 
 ```plaintext
-train/src/
-train/gt_processed/
-test/src/
-test/gt_processed/
+train/src_clean/
+train/gt_clean/
+test/src_clean/
+test/gt_clean/
 ```
