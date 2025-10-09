@@ -23,8 +23,8 @@ What This Does:\
 5️⃣ Saves processed outputs into the following structure:\
 
 ```plaintext
-train/src_clean/
-train/gt_clean/
-test/src_clean/
-test/gt_clean/
+train/src_generated/
+train/gt_generated/
+test/src_generated/
+test/gt_generated/
 ```
