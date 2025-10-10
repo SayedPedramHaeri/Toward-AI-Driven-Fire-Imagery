@@ -40,14 +40,6 @@ What This Does:\
 4️⃣ Optionally augments data with random flips, rotations, and brightness shifts.\
 5️⃣ Saves organized data to:\
 
-```plaintext
-train/images/
-train/labels/
-val/images/
-val/labels/
-test/images/
-test/labels/
-```
 
 ## 🧪 Automated Testing on Multiple Datasets
 
