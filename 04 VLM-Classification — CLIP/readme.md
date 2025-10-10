@@ -21,14 +21,14 @@ Before running the testing scripts, please organize your dataset as follows:
 ```plaintext
 Dataset/
 ├── train/
-│   ├── Fire/
-│   └── No_Fire/
+│   ├── fire/
+│   └── no_fire/
 ├── test/
-│   ├── Fire/
-│   └── No_Fire/
+│   ├── fire/
+│   └── no_fire/
 └── val/
-    ├── Fire/
-    └── No_Fire/
+    ├── fire/
+    └── no_fire/
 ```
 
 What This Does:\
