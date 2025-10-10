@@ -15,7 +15,7 @@ cd "<your_repo_name>/01 Classification -- CLIP"
 
 
 ## 🧩 Data Organization and Preprocessing
-Before running the training scripts, please organize your dataset as follows:
+Before running the testing scripts, please organize your dataset as follows:
 
 ```plaintext
 Dataset/
