@@ -7,6 +7,7 @@ The model is used to evaluate zero-shot and few-shot performance across multiple
 ## ⚙️ Setup & Requirements
 1. **Install dependencies**
    ```bash
+   pip install git+https://github.com/openai/CLIP.git
    pip install torch torchvision torchaudio scikit-learn tqdm seaborn pillow matplotlib
    
 git clone https://github.com/<your_repo_name>.git
