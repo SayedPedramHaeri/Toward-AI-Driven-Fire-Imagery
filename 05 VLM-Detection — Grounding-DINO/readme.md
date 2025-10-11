@@ -7,8 +7,9 @@ Experiments are based on the official **IDEA-Research** PyTorch repository using
 ## ⚙️ Setup & Requirements
 1. **Install dependencies**
    ```bash
-   pip install groundingdino-py
    pip install torch torchvision torchaudio scikit-learn tqdm seaborn pillow matplotlib
+   git clone https://github.com/IDEA-Research/GroundingDINO.git
+   cd GroundingDINO
    
 git clone https://github.com/<your_repo_name>.git
 
