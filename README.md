@@ -108,8 +108,13 @@ This project is open-source under the [MIT License](LICENSE).
 
 If you use this repository, please cite:  
 
-> S. P. Haeri Boroujeni *et al.*,  
-> “Toward AI-Driven Fire Imagery: Attributes, Challenges, Comparisons, and the Promise of VLMs and LLMs,” 2025.  
-
+@article{boroujeni2025toward,
+  title={Toward AI-driven fire imagery: Attributes, challenges, comparisons, and the promise of VLMs and LLMs},
+  author={Boroujeni, Sayed Pedram Haeri and Mehrabi, Niloufar and Afghah, Fatemeh and McGrath, Connor Peter and Bhatkar, Danish and Biradar, Mithilesh Anil and Razi, Abolfazl},
+  journal={Machine Learning with Applications},
+  pages={100763},
+  year={2025},
+  publisher={Elsevier}
+}
 ---
 
